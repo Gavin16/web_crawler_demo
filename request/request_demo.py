@@ -93,7 +93,26 @@ def douBanMovieRank():
         print('接口请求失败:', response.status_code, response.content)
 
 
+def KFCShopSites():
+    url = 'https://www.kfc.com.cn/kfccda/ashx/GetStoreList.ashx?op=keyword'
+    heads = build_headers()
+    params = {
+        'cname':'',
+        'pid':'',
+        'keyword': '深圳',
+        'pageIndex': 1,
+        'pageSize': 300
+    }
+    response = requests.post(url=url, headers=heads, params=params)
+    resp_text = response.text
+    filename = 'KFCShopSite.txt'
+    with open(filename, 'w', encoding='utf-8') as fd:
+        fd.write(resp_text)
+    print(filename, '地址信息保存成功!')
+
+
 if __name__ == "__main__":
     # searchSogou()
     # baiduFanYi()
-    douBanMovieRank()
+    # douBanMovieRank()
+    KFCShopSites()

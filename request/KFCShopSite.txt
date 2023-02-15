@@ -1,0 +1,1099 @@
+{
+    "Table":
+    [
+        {
+            "rowcount": 136
+        }
+    ],
+    "Table1":
+    [
+        {
+            "rownum": 1,
+            "storeName": "中心书城",
+            "addressDetail": "红荔路深圳中心书城首层",
+            "pro": "Wi-Fi,点唱机,礼品卡",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 2,
+            "storeName": "御景东方",
+            "addressDetail": "深圳湾二路与白石路交汇处御景东方裙楼123L1-04号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 3,
+            "storeName": "深圳湾体育中心",
+            "addressDetail": "海德三道深圳湾体育中心南门一层",
+            "pro": "Wi-Fi,店内参观,礼品卡",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 4,
+            "storeName": "深圳北站高铁",
+            "addressDetail": "北站候车厅A区二楼（A2-A3检票口上方东方即白旁）",
+            "pro": "Wi-Fi,礼品卡",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 5,
+            "storeName": "深圳火车站SEL",
+            "addressDetail": "火车站二楼长途列车候车大厅",
+            "pro": "Wi-Fi,点唱机,精选店",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 6,
+            "storeName": "荆门万达",
+            "addressDetail": "深圳大道以南象山大道以西万达广场",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "湖北省",
+            "cityName": "荆门市"
+        },
+        {
+            "rownum": 7,
+            "storeName": "坪山益田",
+            "addressDetail": "坪山新区深圳坪山益田假日世界L1-15 号",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 8,
+            "storeName": "海风移动餐车",
+            "addressDetail": "南山区深圳湾海风运动广场",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 9,
+            "storeName": "布吉万象汇肯德基",
+            "addressDetail": "龙岗区翔鸽路深圳华润万象汇购物中心 3层  L389  号商铺",
+            "pro": "Wi-Fi",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 10,
+            "storeName": "生态城",
+            "addressDetail": "沙河西路1819号深圳湾科技生态园7栋B座01层01、02、09号",
+            "pro": "Wi-Fi,点唱机,精选店",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 11,
+            "storeName": "国展中心",
+            "addressDetail": "宝安区深圳国际会展中心第三层的第L1C301-1商铺",
+            "pro": "Wi-Fi",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 12,
+            "storeName": "国展中心外卖点",
+            "addressDetail": "宝安区深圳国际会展中心中央廊道一层CC102B",
+            "pro": "Wi-Fi,点唱机,精选店",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 13,
+            "storeName": "华为外卖点",
+            "addressDetail": "华为深圳坂田基地H区直招档口（西式快餐）",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 14,
+            "storeName": "移动餐车3",
+            "addressDetail": "深圳湾公园地铁站C出口",
+            "pro": "精选店",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 15,
+            "storeName": "深圳北站四",
+            "addressDetail": "深圳北站站内B区二楼（B2-B3检票口上方）真功夫旁",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 16,
+            "storeName": "创元路",
+            "addressDetail": "深圳市深汕合作区鹅埠镇大德路和创元路交汇处开元大厦一层110  111号商铺及二层209  210号商铺",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "广东省",
+            "cityName": "汕尾市"
+        },
+        {
+            "rownum": 17,
+            "storeName": "深圳北站四",
+            "addressDetail": "深圳北站站内B区二楼（B2-B3检票口上方）真功夫旁",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 18,
+            "storeName": "移动餐车3",
+            "addressDetail": "深圳湾公园地铁站C出口",
+            "pro": "精选店",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 19,
+            "storeName": "深圳北站三",
+            "addressDetail": "深圳北站A区二楼（A18A19检票口上方）",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 20,
+            "storeName": "西丽宝能城",
+            "addressDetail": "53、B1054、B1055号商铺留仙大道3288号宝能环球汇深圳西丽店B1层B1013，B1052，B10",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 21,
+            "storeName": "西丽宝能城",
+            "addressDetail": "53、B1054、B1055号商铺留仙大道3288号宝能环球汇深圳西丽店B1层B1013，B1052，B10",
+            "pro": "24小时,Wi-Fi,点唱机,店内参观",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 22,
+            "storeName": "深圳北站三",
+            "addressDetail": "深圳北站A区二楼（A18A19检票口上方）",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 23,
+            "storeName": "创元路",
+            "addressDetail": "深圳市深汕合作区鹅埠镇大德路和创元路交汇处开元大厦一层110  111号商铺及二层209  210号商铺",
+            "pro": "Wi-Fi,点唱机",
+            "provinceName": "广东省",
+            "cityName": "汕尾市"
+        },
+        {
+            "rownum": 24,
+            "storeName": "大学城荷园",
+            "addressDetail": "深圳大学城荷园生活区6#商铺",
+            "pro": "Wi-Fi,手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 25,
+            "storeName": "大学城荷园",
+            "addressDetail": "深圳大学城荷园生活区6#商铺",
+            "pro": "Wi-Fi,手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 26,
+            "storeName": "创科中心",
+            "addressDetail": "深圳湾创新科技中心1栋A座01层19、20号铺",
+            "pro": "Wi-Fi,店内参观,手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 27,
+            "storeName": "国际创新中心",
+            "addressDetail": "深南大道1006号深圳国际创新中心下沉广场负一层X008号商铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 28,
+            "storeName": "百胜餐饮（深圳）有限公司金同路",
+            "addressDetail": "金同路2000号教学t4一楼101-102",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "珠海市"
+        },
+        {
+            "rownum": 29,
+            "storeName": "百胜餐饮（深圳）有限公司金同路",
+            "addressDetail": "金同路2000号教学t4一楼101-102",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "珠海市"
+        },
+        {
+            "rownum": 30,
+            "storeName": "国际创新中心",
+            "addressDetail": "深南大道1006号深圳国际创新中心下沉广场负一层X008号商铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 31,
+            "storeName": "百胜餐饮（深圳）有限公司中粮福安 K-coffee",
+            "addressDetail": "福永街道大洋路90号中粮（福安）机器人科技园 5#厂房一层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 32,
+            "storeName": "百胜餐饮（深圳）有限公司中粮福安 K-coffee",
+            "addressDetail": "福永街道大洋路90号中粮（福安）机器人科技园 5#厂房一层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 33,
+            "storeName": "常熟中南锦城",
+            "addressDetail": "经济开发区高新技术产业园深圳路70号一层70-2号",
+            "pro": "Wi-Fi,手机点餐",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 34,
+            "storeName": "百胜餐饮（深圳）有限公司有所为大厦 K-coffee",
+            "addressDetail": "坂田街道岗头社区稼先路2000号有所为大厦一楼大堂",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 35,
+            "storeName": "百胜餐饮（深圳）有限公司有所为大厦 K-coffee",
+            "addressDetail": "坂田街道岗头社区稼先路2000号有所为大厦一楼大堂",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 36,
+            "storeName": "常熟中南锦城",
+            "addressDetail": "经济开发区高新技术产业园深圳路70号一层70-2号",
+            "pro": "Wi-Fi,手机点餐",
+            "provinceName": "江苏省",
+            "cityName": "苏州市"
+        },
+        {
+            "rownum": 37,
+            "storeName": "百胜餐饮（深圳）有限公司坪山天虹",
+            "addressDetail": "中山大道与锦龙大道交会处东城国际坪山天虹商场一层1201号铺位",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 38,
+            "storeName": "百胜餐饮（深圳）有限公司金水湾",
+            "addressDetail": "北山道与盐田路交汇处以西金水湾御园裙楼P34、P35号铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 39,
+            "storeName": "百胜餐饮（深圳）有限公司环球数码大厦K-coffee",
+            "addressDetail": "粤海街道麻岭社区高新中三道9号",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 40,
+            "storeName": "百胜餐饮（深圳）有限公司环球数码大厦K-coffee",
+            "addressDetail": "粤海街道麻岭社区高新中三道9号",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 41,
+            "storeName": "百胜餐饮（深圳）有限公司华强中航城君尚",
+            "addressDetail": "振华路中航苑鼎诚大厦裙楼第1层第101号之第1051号店铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 42,
+            "storeName": "百胜餐饮（深圳）有限公司华强创意园 K-coffee",
+            "addressDetail": "华强创意产业园一期2栋2#-F1-006号商铺",
+            "pro": "店内参观",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 43,
+            "storeName": "百胜餐饮（深圳）有限公司华强中航城君尚",
+            "addressDetail": "振华路中航苑鼎诚大厦裙楼第1层第101号之第1051号店铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 44,
+            "storeName": "百胜餐饮（深圳）有限公司华强创意园 K-coffee",
+            "addressDetail": "华强创意产业园一期2栋2#-F1-006号商铺",
+            "pro": "店内参观",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 45,
+            "storeName": "百胜餐饮（深圳）有限公司观澜富士康",
+            "addressDetail": "观光路1412号富士康科技集团观澜科技园C21栋商业街1楼3号铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 46,
+            "storeName": "百胜餐饮（深圳）有限公司坪山天虹",
+            "addressDetail": "中山大道与锦龙大道交会处东城国际坪山天虹商场一层1201号铺位",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 47,
+            "storeName": "百胜餐饮（深圳）有限公司观澜富士康",
+            "addressDetail": "观光路1412号富士康科技集团观澜科技园C21栋商业街1楼3号铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 48,
+            "storeName": "百胜餐饮（深圳）有限公司金水湾",
+            "addressDetail": "北山道与盐田路交汇处以西金水湾御园裙楼P34、P35号铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 49,
+            "storeName": "深圳天河城",
+            "addressDetail": "太白路深圳天河城地下一层B158.B159.B160号商铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 50,
+            "storeName": "深圳天河城",
+            "addressDetail": "太白路深圳天河城地下一层B158.B159.B160号商铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 51,
+            "storeName": "南油地铁站",
+            "addressDetail": "深圳地铁9号线南油站9、10号铺",
+            "pro": "Wi-Fi,手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 52,
+            "storeName": "南油地铁站",
+            "addressDetail": "深圳地铁9号线南油站9、10号铺",
+            "pro": "Wi-Fi,手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 53,
+            "storeName": "百胜餐饮（深圳）有限公司万科云城东区",
+            "addressDetail": "西丽万科云城（三期）9栋177、178号商铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 54,
+            "storeName": "百胜餐饮（深圳）有限公司文博宫",
+            "addressDetail": "布吉街道文博宫9-141号L1号商铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 55,
+            "storeName": "百胜餐饮（深圳）有限公司佳兆业中心",
+            "addressDetail": "上步南路东南园路北佳兆业中心601第一层103号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 56,
+            "storeName": "百胜餐饮（深圳）有限公司长岭陂",
+            "addressDetail": "留仙大道长源京基御领公馆2栋半地下215号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 57,
+            "storeName": "百胜餐饮（深圳）有限公司万象食家甜品站",
+            "addressDetail": "园路南侧，桃园路北侧深圳笋岗万象食家KL528",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 58,
+            "storeName": "百胜餐饮（深圳）有限公司后环",
+            "addressDetail": "高新区唐家湾镇情侣北路南侧、金云路东侧1层位置编号为102的商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "珠海市"
+        },
+        {
+            "rownum": 59,
+            "storeName": "百胜餐饮（深圳）有限公司深纺大厦",
+            "addressDetail": "振华路2001号深纺大厦一楼L1-16号",
+            "pro": "24小时,手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 60,
+            "storeName": "百胜餐饮（深圳）有限公司万象食家",
+            "addressDetail": "笋岗街道笋西社区梅园路75号万象华府第4层L408",
+            "pro": "Wi-Fi,手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 61,
+            "storeName": "百胜餐饮（深圳）有限公司万象食家甜品站",
+            "addressDetail": "园路南侧，桃园路北侧深圳笋岗万象食家KL528",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 62,
+            "storeName": "百胜餐饮（深圳）有限公司万科云城东区",
+            "addressDetail": "西丽万科云城（三期）9栋177、178号商铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 63,
+            "storeName": "百胜餐饮（深圳）有限公司长岭陂",
+            "addressDetail": "留仙大道长源京基御领公馆2栋半地下215号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 64,
+            "storeName": "百胜餐饮（深圳）有限公司莲塘高新园K-coffee",
+            "addressDetail": "罗沙路莲塘工业厂房106栋一层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 65,
+            "storeName": "百胜餐饮（深圳）有限公司嘉汇新城",
+            "addressDetail": "福华路嘉汇新城嘉汇城1层商场8之L115/L116号铺位",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 66,
+            "storeName": "百胜餐饮（深圳）有限公司文博宫",
+            "addressDetail": "布吉街道文博宫9-141号L1号商铺",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 67,
+            "storeName": "百胜餐饮（深圳）有限公司佳兆业中心",
+            "addressDetail": "上步南路东南园路北佳兆业中心601第一层103号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 68,
+            "storeName": "百胜餐饮（深圳）有限公司万象食家",
+            "addressDetail": "笋岗街道笋西社区梅园路75号万象华府第4层L408",
+            "pro": "Wi-Fi,手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 69,
+            "storeName": "深圳湾公园站",
+            "addressDetail": "滨海大道路深圳湾公园地铁商业A13（母店）及B01（外卖点）",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 70,
+            "storeName": "百胜餐饮（深圳）有限公司后环",
+            "addressDetail": "高新区唐家湾镇情侣北路南侧、金云路东侧1层位置编号为102的商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "珠海市"
+        },
+        {
+            "rownum": 71,
+            "storeName": "百胜餐饮（深圳）有限公司深纺大厦",
+            "addressDetail": "振华路2001号深纺大厦一楼L1-16号",
+            "pro": "24小时,手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 72,
+            "storeName": "百胜餐饮（深圳）有限公司莲塘高新园K-coffee",
+            "addressDetail": "罗沙路莲塘工业厂房106栋一层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 73,
+            "storeName": "百胜餐饮（深圳）有限公司新大梅沙",
+            "addressDetail": "大梅沙村盐梅路北大梅沙海景酒店5号楼一层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 74,
+            "storeName": "百胜餐饮（深圳）有限公司新大梅沙",
+            "addressDetail": "大梅沙村盐梅路北大梅沙海景酒店5号楼一层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 75,
+            "storeName": "百胜餐饮（深圳）有限公司嘉汇新城",
+            "addressDetail": "福华路嘉汇新城嘉汇城1层商场8之L115/L116号铺位",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 76,
+            "storeName": "深圳湾公园站",
+            "addressDetail": "滨海大道路深圳湾公园地铁商业A13（母店）及B01（外卖点）",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 77,
+            "storeName": "百胜餐饮（深圳）有限公司仁恒前海梦公园",
+            "addressDetail": "新桥街道寮盛路与南洞东路交汇处的仁恒芯梦公园的仁恒里?芯梦公园【10、11、12、13/14】号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 78,
+            "storeName": "百胜餐饮（深圳）有限公司新桥佳华领创",
+            "addressDetail": "新桥街道蚝乡路与中心路交汇处西南角二层2018号铺位",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 79,
+            "storeName": "百胜餐饮（深圳）有限公司新桥佳华领创",
+            "addressDetail": "新桥街道蚝乡路与中心路交汇处西南角二层2018号铺位",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 80,
+            "storeName": "百胜餐饮（深圳）有限公司TY临时-深圳肯德基市场",
+            "addressDetail": "三灶镇海澄田心村南侧珠海国际航展中心B、C餐厅",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "珠海市"
+        },
+        {
+            "rownum": 81,
+            "storeName": "百胜餐饮（深圳）有限公司仁恒前海梦公园",
+            "addressDetail": "新桥街道寮盛路与南洞东路交汇处的仁恒芯梦公园的仁恒里?芯梦公园【10、11、12、13/14】号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 82,
+            "storeName": "百胜餐饮（深圳）有限公司TY临时-深圳肯德基市场",
+            "addressDetail": "三灶镇海澄田心村南侧珠海国际航展中心B、C餐厅",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "珠海市"
+        },
+        {
+            "rownum": 83,
+            "storeName": "百胜餐饮（深圳）有限公司香蜜公园餐车",
+            "addressDetail": "香蜜公园",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 84,
+            "storeName": "百胜餐饮（深圳）有限公司香蜜公园K-coffee",
+            "addressDetail": "农园路香蜜公园西门",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 85,
+            "storeName": "百胜餐饮（深圳）有限公司中粮商务公园K-coffee",
+            "addressDetail": "新安街道67区大宝路中粮创智厂区项目1栋107铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 86,
+            "storeName": "百胜餐饮（深圳）有限公司仁恒滨海中心K-coffee",
+            "addressDetail": "情侣南路1号5栋103号",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "珠海市"
+        },
+        {
+            "rownum": 87,
+            "storeName": "百胜餐饮（深圳）有限公司复兴城 K-coffee",
+            "addressDetail": "滨海大道32号复兴城E区",
+            "pro": null,
+            "provinceName": "海南省",
+            "cityName": "海口市"
+        },
+        {
+            "rownum": 88,
+            "storeName": "百胜餐饮（深圳）有限公司比亚迪",
+            "addressDetail": "比亚迪坪山园区D27号科技楼一楼",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 89,
+            "storeName": "百胜餐饮（深圳）有限公司松河瑞园",
+            "addressDetail": "松岗街道松河瑞园二期148 号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 90,
+            "storeName": "百胜餐饮（深圳）有限公司赛百诺",
+            "addressDetail": "粤海街道高新技术产业园 (中区）科技中一路19号赛百诺基因治疗园赛百诺大厦一层商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 91,
+            "storeName": "百胜餐饮（深圳）有限公司中海信",
+            "addressDetail": "吉华街道甘李二路11号中海信创新产业城19A22层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 92,
+            "storeName": "百胜餐饮（深圳）有限公司富士锦园",
+            "addressDetail": "坑梓街道金沙社区坪山大道与人民东路交汇处富士锦园6栋一楼6-08号",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 93,
+            "storeName": "百胜餐饮（深圳）有限公司云玺锦庭",
+            "addressDetail": "新安街道云玺锦庭101、102、103号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 94,
+            "storeName": "百胜餐饮（深圳）有限公司深业东岭",
+            "addressDetail": "黄贝三路9号深业东岭花园二期5、6、7号楼 半地下201、202号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 95,
+            "storeName": "百胜餐饮（深圳）有限公司东方金钰",
+            "addressDetail": "翠竹北路水贝工业区六层通用厂房2栋1层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 96,
+            "storeName": "百胜餐饮（深圳）有限公司海景大厦",
+            "addressDetail": "招商街道赤湾四路36号海景大厦103、104号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 97,
+            "storeName": "百胜餐饮（深圳）有限公司龙华益田假日",
+            "addressDetail": "龙华街道清华社区和平东路龙华益田假日天地L1-27号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 98,
+            "storeName": "百胜餐饮（深圳）有限公司海景大厦",
+            "addressDetail": "招商街道赤湾四路36号海景大厦103、104号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 99,
+            "storeName": "百胜餐饮（深圳）有限公司联创科技园K-coffee",
+            "addressDetail": "南湾街道布澜路21号联创科技园园区的31栋1楼大堂",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 100,
+            "storeName": "百胜餐饮（深圳）有限公司珠海万科城",
+            "addressDetail": "扣扉路21、25号房产",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "珠海市"
+        },
+        {
+            "rownum": 101,
+            "storeName": "百胜餐饮（深圳）有限公司官湖餐车",
+            "addressDetail": "大鹏新区官湖社区",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 102,
+            "storeName": "百胜餐饮（深圳）有限公司联创科技园K-coffee",
+            "addressDetail": "南湾街道布澜路21号联创科技园园区的31栋1楼大堂",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 103,
+            "storeName": "百胜餐饮（深圳）有限公司复兴城 K-coffee",
+            "addressDetail": "滨海大道32号复兴城E区",
+            "pro": null,
+            "provinceName": "海南省",
+            "cityName": "海口市"
+        },
+        {
+            "rownum": 104,
+            "storeName": "百胜餐饮（深圳）有限公司龙园大观",
+            "addressDetail": "龙岗街道龙岗社区福宁路155号龙园大观花园一期1栋商业113、114号部分商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 105,
+            "storeName": "百胜餐饮（深圳）有限公司清丽路",
+            "addressDetail": "坂田街道清湖工业区宝能科技园（南区）一期B区B1栋宝能·桦穗数创云城101-03商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 106,
+            "storeName": "百胜餐饮（深圳）有限公司金融科技园K coffee",
+            "addressDetail": "粤海街道科发路八号金融基地中心花园靠党群服务中心侧",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 107,
+            "storeName": "百胜餐饮（深圳）有限公司淘金地大厦K-coffee",
+            "addressDetail": "大浪街道龙平社区腾龙路淘金地电子商务孵化基地展滔商广场D座105室",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 108,
+            "storeName": "百胜餐饮（深圳）有限公司春笋OPPO K-Coffee",
+            "addressDetail": "粤海街道中国华润大厦春笋大厦32楼",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 109,
+            "storeName": "百胜餐饮（深圳）有限公司龙华益田假日",
+            "addressDetail": "龙华街道清华社区和平东路龙华益田假日天地L1-27号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 110,
+            "storeName": "百胜餐饮（深圳）有限公司东方金钰",
+            "addressDetail": "翠竹北路水贝工业区六层通用厂房2栋1层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 111,
+            "storeName": "百胜餐饮（深圳）有限公司光明云科府",
+            "addressDetail": "新湖街道圳美社区圳园路TFY21地块（云科府）一栋一层01-03号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 112,
+            "storeName": "百胜餐饮（深圳）有限公司富士锦园",
+            "addressDetail": "坑梓街道金沙社区坪山大道与人民东路交汇处富士锦园6栋一楼6-08号",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 113,
+            "storeName": "百胜餐饮（深圳）有限公司云玺锦庭",
+            "addressDetail": "新安街道云玺锦庭101、102、103号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 114,
+            "storeName": "百胜餐饮（深圳）有限公司中海信",
+            "addressDetail": "吉华街道甘李二路11号中海信创新产业城19A22层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 115,
+            "storeName": "百胜餐饮（深圳）有限公司深业东岭",
+            "addressDetail": "黄贝三路9号深业东岭花园二期5、6、7号楼 半地下201、202号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 116,
+            "storeName": "百胜餐饮（深圳）有限公司珠海万科城",
+            "addressDetail": "扣扉路21、25号房产",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "珠海市"
+        },
+        {
+            "rownum": 117,
+            "storeName": "百胜餐饮（深圳）有限公司官湖餐车",
+            "addressDetail": "大鹏新区官湖社区",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 118,
+            "storeName": "百胜餐饮（深圳）有限公司新保利",
+            "addressDetail": "粤海街道海珠东社区文心六路4号保利文化广场B区108、109号",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 119,
+            "storeName": "百胜餐饮（深圳）有限公司梧桐春晓",
+            "addressDetail": "中青路后方陆域西南片区梧桐翡翠花园A栋101、102、103号",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 120,
+            "storeName": "百胜餐饮（深圳）有限公司启迪协信K-coffee",
+            "addressDetail": "龙城街道启迪协信科技园5栋B12",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 121,
+            "storeName": "百胜餐饮（深圳）有限公司永新汇",
+            "addressDetail": "东滨路 4078 号永新汇一层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 122,
+            "storeName": "百胜餐饮（深圳）有限公司春笋OPPO K-Coffee",
+            "addressDetail": "粤海街道中国华润大厦春笋大厦32楼",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 123,
+            "storeName": "百胜餐饮（深圳）有限公司仁恒滨海中心K-coffee",
+            "addressDetail": "情侣南路1号5栋103号",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "珠海市"
+        },
+        {
+            "rownum": 124,
+            "storeName": "百胜餐饮（深圳）有限公司永新汇",
+            "addressDetail": "东滨路 4078 号永新汇一层",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 125,
+            "storeName": "百胜餐饮（深圳）有限公司龙园大观",
+            "addressDetail": "龙岗街道龙岗社区福宁路155号龙园大观花园一期1栋商业113、114号部分商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 126,
+            "storeName": "百胜餐饮（深圳）有限公司清丽路",
+            "addressDetail": "坂田街道清湖工业区宝能科技园（南区）一期B区B1栋宝能·桦穗数创云城101-03商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 127,
+            "storeName": "百胜餐饮（深圳）有限公司新保利",
+            "addressDetail": "粤海街道海珠东社区文心六路4号保利文化广场B区108、109号",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 128,
+            "storeName": "百胜餐饮（深圳）有限公司淘金地大厦K-coffee",
+            "addressDetail": "大浪街道龙平社区腾龙路淘金地电子商务孵化基地展滔商广场D座105室",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 129,
+            "storeName": "百胜餐饮（深圳）有限公司中粮商务公园K-coffee",
+            "addressDetail": "新安街道67区大宝路中粮创智厂区项目1栋107铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 130,
+            "storeName": "百胜餐饮（深圳）有限公司金融科技园K coffee",
+            "addressDetail": "粤海街道科发路八号金融基地中心花园靠党群服务中心侧",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 131,
+            "storeName": "百胜餐饮（深圳）有限公司梧桐春晓",
+            "addressDetail": "中青路后方陆域西南片区梧桐翡翠花园A栋101、102、103号",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 132,
+            "storeName": "百胜餐饮（深圳）有限公司启迪协信K-coffee",
+            "addressDetail": "龙城街道启迪协信科技园5栋B12",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 133,
+            "storeName": "百胜餐饮（深圳）有限公司光明云科府",
+            "addressDetail": "新湖街道圳美社区圳园路TFY21地块（云科府）一栋一层01-03号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 134,
+            "storeName": "百胜餐饮（深圳）有限公司松河瑞园",
+            "addressDetail": "松岗街道松河瑞园二期148 号商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 135,
+            "storeName": "百胜餐饮（深圳）有限公司赛百诺",
+            "addressDetail": "粤海街道高新技术产业园 (中区）科技中一路19号赛百诺基因治疗园赛百诺大厦一层商铺",
+            "pro": null,
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        },
+        {
+            "rownum": 136,
+            "storeName": "百胜餐饮（深圳）有限公司比亚迪",
+            "addressDetail": "比亚迪坪山园区D27号科技楼一楼",
+            "pro": "手机点餐",
+            "provinceName": "广东省",
+            "cityName": "深圳市"
+        }
+    ]
+}
