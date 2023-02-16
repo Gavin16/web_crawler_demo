@@ -1,5 +1,11 @@
 import json
 
+"""
+    requests 模块在网络爬虫中主要用于网络请求
+    
+"""
+
+
 import requests
 
 sg_url = "https://www.sogou.com/"
@@ -109,6 +115,16 @@ def KFCShopSites():
     with open(filename, 'w', encoding='utf-8') as fd:
         fd.write(resp_text)
     print(filename, '地址信息保存成功!')
+
+
+"""
+    初始页面不包含,需要动态加载才能获得的数据
+    
+"""
+
+
+def DynamicLoadedDate():
+    pass
 
 
 if __name__ == "__main__":
