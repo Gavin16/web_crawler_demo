@@ -5,3 +5,10 @@ test cherry-pick commit: 001
 test cherry-pick commit: 002
 
 test cherry-pick commit: 003
+
+test stash commit: 001
+
+test stash commit: 002
+
+test stash commit: 003
+
