@@ -14,3 +14,5 @@ test stash commit: 003
 
 test rebase commit: 001
 
+test rebase commit: 002
+
