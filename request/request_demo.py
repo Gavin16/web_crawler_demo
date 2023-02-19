@@ -90,11 +90,24 @@ def douBanMovieRank():
     status_code = response.status_code
     if status_code == 200:
         list_data = response.json()
-        filename = '豆瓣喜剧top100.json'
+        filename = '豆瓣喜剧top100.txt'
         fd = open(filename, 'w', encoding='utf-8')
-        json.dump(list_data, fp=fd, ensure_ascii=False)
-
-        print(filename, '数据保存成功!')
+        for record in list_data:
+            rank = '豆瓣排名: ' + str(record["rank"])
+            title = '电影名称: ' + record["title"]
+            release_date = '上映时间: ' + record["release_date"]
+            score = '豆瓣评分: ' + record["score"]
+            region = '上映地区: ' + record["regions"][0]
+            fd.write(rank + '\n')
+            fd.write(title + '\n')
+            fd.write(release_date + '\n')
+            fd.write(region + '\n')
+            fd.write(score + '\n')
+            sub_list = record["actors"][0:4]
+            main_actors = ', '.join(sub_list)
+            fd.write("主演演员: " + main_actors + '\n\n')
+        fd.flush()
+        fd.close()
     else:
         print('接口请求失败:', response.status_code, response.content)
 
@@ -130,5 +143,5 @@ def DynamicLoadedDate():
 if __name__ == "__main__":
     # searchSogou()
     # baiduFanYi()
-    # douBanMovieRank()
-    KFCShopSites()
+    douBanMovieRank()
+    # KFCShopSites()
