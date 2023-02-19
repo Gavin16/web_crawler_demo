@@ -5,3 +5,5 @@ test cherry-pick commit: 001
 test cherry-pick commit: 002
 
 test cherry-pick commit: 003
+
+test revert commit: 001
