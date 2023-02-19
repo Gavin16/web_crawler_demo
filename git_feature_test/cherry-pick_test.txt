@@ -16,3 +16,5 @@ test rebase commit: 001
 
 test rebase commit: 002
 
+
+test rebase commit: 003
