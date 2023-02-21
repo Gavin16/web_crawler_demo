@@ -24,6 +24,11 @@ from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 from lxml import etree
 
+# 实现浏览器无可视化界面
+from selenium.webdriver.chrome.options import Options
+
+# 规避网站对selenium检测
+from selenium.webdriver import ChromeOptions
 
 """
     使用selenium 获取豆瓣读书Top250书籍信息
@@ -57,7 +62,17 @@ def parse_page_and_save(first_no, fd, tree):
 
 
 def get_douban_book_top250():
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    # 去掉chrome可视化界面
+    chrome_options = Options()
+    chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--disable-gpu')
+
+    # 规避selenium 被检测
+    # option = ChromeOptions()
+    chrome_options.add_experimental_option('excludeSwitches', ['enable-automation'])
+
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()),
+                              options=chrome_options)
     driver.get(url='https://book.douban.com/top250')
 
     # 图书存储文件
