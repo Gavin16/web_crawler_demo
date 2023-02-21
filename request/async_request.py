@@ -23,6 +23,7 @@
 from multiprocessing import Pool
 import asyncio
 import time
+import requests
 
 
 def process_download(name: str):
@@ -44,29 +45,110 @@ def test_thread_pool():
 
 async def async_request(url: str):
     print("请求URL地址,", url)
+    # 在异步协程中如果出现了同步模块相关的代码, 那么就无法实现异步
+    # time.sleep(2)
+    # 当在asyncio中遇到阻塞操作必须进行手动挂起
+    await asyncio.sleep(2)
     print("请求成功,", url)
     return url
+
 
 """
         
 """
 
 
+async def gather_multi(req1, req2):
+    await asyncio.gather(req1, req2)
+
+
+"""
+    协程使用方式:
+     通过loop 创建task
+    (1) 调用async 关键字修饰的方法将得到一个协程对象
+    (2) 创建一个时间循环对象      #asyncio.get_event_loop()
+    (3) 将协程对象注册到loop中    #asyncio.create_task(c) 得到task对象
+    (4) 启动loop执行任务         #asyncio.run_until_complete(task)
+     通过asyncio ensure_future 创建task
+    (1) 调用async 关键字修饰的方法，得到一个协程对象
+    (2) 创建一个循环对象         
+    (3) 通过asyncio ensure_future 创建一个task对象(将协程对象绑定到任务中)
+    (4) 启动loop执行绑定任务
+"""
+
+
 def test_coroutine():
-    req = async_request("www.baidu.com")
+    url1 = "www.baidu.com"
+    url2 = "www.sina.com"
+
+    req1 = async_request("www.baidu.com")
+    req2 = async_request("www.sina.com")
 
     loop = asyncio.get_event_loop()
-    task = asyncio.ensure_future(req)
+    task = asyncio.ensure_future(req1)
     # task = loop.create_task(req)
     task.add_done_callback(callback_func)
     loop.run_until_complete(task)
-    # 将回调函数绑定到任务对象中
+
+    # 异步同时执行多个协程
+    # asyncio.run(gather_multi(async_request(url1), async_request(url2)))
 
 
 def callback_func(task):
     print(task.result())
 
 
+def multi_request():
+    start = time.time()
+    urls = [
+        "www.baidu.com",
+        "www.sina.com",
+        "www.sogou.com"
+    ]
+    tasks = []
+    for url in urls:
+        c = async_request(url)
+        task = asyncio.ensure_future(c)
+        tasks.append(task)
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(asyncio.wait(tasks))
+    print("multi_request执行耗时:", (time.time() - start))
+
+
+
+async def http_request(url):
+    print("请求地址:", url)
+    response = requests.get(url=url)
+    print("响应结果:", response.text)
+
+
+"""
+    使用协程 验证真实http请求 并发效果
+    实际执行耗时: 6s
+    因为requests 发起的请求是同步操作，因此在asyncio异步执行不再生效
+"""
+
+
+def real_request_test():
+    urls = [
+            'http://127.0.0.1:5000/bobo',
+            'http://127.0.0.1:5000/mimi',
+            'http://127.0.0.1:5000/jiojio'
+    ]
+    tasks = []
+    for url in urls:
+        c = http_request(url)
+        task = asyncio.ensure_future(c)
+        tasks.append(task)
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(asyncio.wait(tasks))
+
+
 if __name__ == "__main__":
     # test_thread_pool()
-    test_coroutine()
+    # test_coroutine()
+    # multi_request()
+    start = time.time()
+    real_request_test()
+    end = time.time()
+    print("执行总耗时:", end - start)
